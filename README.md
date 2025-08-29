@@ -19,6 +19,7 @@ I love exploring new technologies, building intelligent solutions, and sharing k
 - Artificial Intelligence (AI)
 - Data Science
 - Machine Learning
+- Deep learning
 - JavaScript
 
 ---
