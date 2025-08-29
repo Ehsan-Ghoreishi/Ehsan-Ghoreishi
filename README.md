@@ -20,8 +20,6 @@ I love exploring new technologies, building intelligent solutions, and sharing k
 - Data Science
 - Machine Learning
 - JavaScript
-- HTML & CSS
-- Git & GitHub
 
 ---
 
