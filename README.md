@@ -8,7 +8,7 @@
 
 ## 💻 About Me
 
-Hi! I'm Ehsan Ghoreishi, a passionate programmer specializing in Python, Artificial Intelligence, Machine Learning, JavaScript, HTML, and CSS.  
+Hi! I'm Ehsan Ghoreishi, a passionate programmer specializing in Python, Artificial Intelligence,Data Science, Machine Learning, JavaScript, HTML, and CSS.  
 I love exploring new technologies, building intelligent solutions, and sharing knowledge with the community!
 
 ---
