@@ -1,6 +1,5 @@
 # Ehsan Ghoreishi
 
-[hits]![(https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEhsan-Ghoreishi%2FEhsan-Ghoreishi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Github](https://img.shields.io/github/followers/Ehsan-Ghoreishi?label=Follow&style=social)](https://github.com/Ehsan-Ghoreishi)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ehsan.ghoreshi62@gmail.com)
 
