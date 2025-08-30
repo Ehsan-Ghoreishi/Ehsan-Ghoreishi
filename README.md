@@ -41,12 +41,6 @@ I love exploring new technologies, building intelligent solutions, and sharing k
 
 Feel free to email me: [ehsan.ghoreshi62@gmail.com](mailto:ehsan.ghoreshi62@gmail.com)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 ---
 
 <!-- GitHub Stats Section (optional, uncomment if you want it!) -->
