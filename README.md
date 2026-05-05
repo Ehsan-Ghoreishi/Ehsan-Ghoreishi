@@ -12,6 +12,9 @@
   <a href="https://github.com/Ehsan-Ghoreishi">
     <img src="https://img.shields.io/github/followers/Ehsan-Ghoreishi?style=for-the-badge&logo=github&label=Follow"/>
   </a>
+  <a href="https://www.linkedin.com/in/ehsanghoreishi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -24,6 +27,7 @@ I'm a passionate developer based in Germany, focused on Python, Data Science, an
 - 🌱 Always learning: advanced ML techniques, deep learning, and software engineering best practices
 - 💡 I believe in learning by doing — every project in my portfolio is a step forward
 - 📫 Reach me at: [ehsan.ghoreshi62@gmail.com](mailto:ehsan.ghoreshi62@gmail.com)
+- 💼 Connect on: [LinkedIn](https://www.linkedin.com/in/ehsanghoreishi)
 
 ---
 
@@ -41,17 +45,26 @@ I'm a passionate developer based in Germany, focused on Python, Data Science, an
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-76B7B2?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-green?style=for-the-badge&logo=python&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**AI Skills**
+
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-FF69B4?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
