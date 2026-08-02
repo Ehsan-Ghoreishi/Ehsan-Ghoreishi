@@ -23,8 +23,8 @@ I'm a Berlin-based **Data Scientist & Machine Learning Engineer** specializing i
 
 After 15+ years in civil engineering and project management — where I led teams of up to 65 people and delivered complex multi-million euro infrastructure projects on time and budget — I made a deliberate transition into Data Science. I backed this transition with rigorous certifications from **MIT Professional Education (Applied AI & Data Science)**, **IBM**, and **Google**.
 
-- 🔭 **Currently:** Deepening production-grade ML workflows, MLOps, and advanced SQL architectures.
-- 🔭 **Currently:** Expanding deep learning stack with PyTorch, building production-ready FastAPI services, and mastering advanced SQL architectures.
+- 🔭 Currently: Expanding my Deep Learning stack (PyTorch), building production-grade MLOps & FastAPI workflows, and mastering advanced SQL architectures.
+- architectures.
 - 💹 **Fintech & Risk Edge:** As an active Forex and Index trader, I understand risk, drawdowns, and market dynamics from a practitioner’s perspective.
 - 🔐 **Security Mindset:** Google Cybersecurity Certified. I build leakage-free, robust pipelines because unreliable data is a financial liability.
 - 💡 **How I work:** Honest evaluation metrics, business impact-driven solutions, and clean, reproducible code.
