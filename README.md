@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Ehsan Ghoreishi 👋</h1>
 
 <p align="center">
-  <b>Data Analyst · Junior Data Scientist</b><br/>
-  Python · SQL · Machine Learning &nbsp;|&nbsp; Fintech · Risk · Trading &nbsp;|&nbsp; Berlin, Germany
+  <b>Data Scientist · Machine Learning Engineer</b><br/>
+  Python · SQL · Machine Learning &nbsp;|&nbsp; Fintech · Risk · Quantitative Trading &nbsp;|&nbsp; Berlin, Germany
 </p>
 
 <p align="center">
-  Turning messy data into decisions people can actually act on.
+  Turning complex, messy data into actionable, business-driven decisions.
 </p>
 
 <p align="center">
@@ -19,14 +19,15 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a data professional based in Berlin, focused on **data analysis, machine learning, and applied AI** — with a strong interest in **fintech, risk, and trading**.
+I'm a Berlin-based **Data Scientist & Machine Learning Engineer** specializing in applied AI, risk modeling, and financial data analytics.
 
-After 15+ years in engineering, where I led teams of up to 65 and delivered complex projects on time and on budget, I made a deliberate move into data. I trained through **MIT Professional Education (Applied AI & Data Science)**, **IBM**, and **Google**, and I build **end-to-end projects** across the full workflow — data cleaning, EDA, modeling, and honest evaluation.
+After 15+ years in civil engineering and project management — where I led teams of up to 65 people and delivered complex multi-million euro infrastructure projects on time and budget — I made a deliberate transition into Data Science. I backed this transition with rigorous certifications from **MIT Professional Education (Applied AI & Data Science)**, **IBM**, and **Google**.
 
-- 🔭 **Currently:** deepening advanced SQL and building toward production ML
-- 💹 **Edge for fintech:** I actively trade forex and index markets, so I think about risk and signal-vs-noise the way the domain really works
-- 💡 **How I work:** honest metrics, leakage-free pipelines, and results framed around business impact
-- 📫 **Reach me:** ehsan.ghoreshi62@gmail.com
+- 🔭 **Currently:** Deepening production-grade ML workflows, MLOps, and advanced SQL architectures.
+- 💹 **Fintech & Risk Edge:** As an active Forex and Index trader, I understand risk, drawdowns, and market dynamics from a practitioner’s perspective.
+- 🔐 **Security Mindset:** Google Cybersecurity Certified. I build leakage-free, robust pipelines because unreliable data is a financial liability.
+- 💡 **How I work:** Honest evaluation metrics, business impact-driven solutions, and clean, reproducible code.
+- 📍 **Status:** Based in Berlin, Germany (Unrestricted Work Authorization).
 
 ---
 
@@ -34,23 +35,25 @@ After 15+ years in engineering, where I led teams of up to 65 and delivered comp
 
 | Project | What it does | Tech |
 |---|---|---|
-| 🛡️ **[Fraud Detection](https://github.com/Ehsan-Ghoreishi/fraud-detection)** | End-to-end ML pipeline flagging fraudulent payments on imbalanced data — **98.8% recall, PR-AUC 0.990** — with a **business cost-based decision threshold** instead of a naive 0.5 cutoff. | Python · scikit-learn · pandas |
-| 🔐 **[Network Intrusion Detection](https://github.com/Ehsan-Ghoreishi/network-intrusion-detection)** | Deep-learning IDS with two models: a supervised NN for known attacks (**99.3% detection**) + an **autoencoder** for zero-day anomalies (**ROC-AUC 0.992**). | Python · TensorFlow/Keras |
-| 📈 **[Quant Strategy Backtester](https://github.com/Ehsan-Ghoreishi/quant-backtester)** | Leak-free backtester comparing mean-reversion vs. momentum on real Dow Jones data — Sharpe, max drawdown, out-of-sample vs. buy & hold. | Python · pandas · yfinance |
-| 🚀 **SpaceX Falcon 9 Landing Prediction** | IBM capstone: API + SQL data pipeline and hyperparameter tuning across four classifiers, **~83% test accuracy**. | Python · SQL · scikit-learn |
-| 🍔 **[FoodHub Order Analysis](https://github.com/Ehsan-Ghoreishi/foodhub)** | Business-focused EDA on 1,898 orders turned into concrete revenue & operations recommendations. | Python · pandas · Seaborn |
-| 📚 **[Book Data Pipeline](https://github.com/Ehsan-Ghoreishi/book-data-pipeline)** | Web scraper collecting and analyzing 1,000 books across 50 pages with pagination. | Python · BeautifulSoup · pandas |
+| 🛡️ **[Fraud Detection Pipeline](https://github.com/Ehsan-Ghoreishi/fraud-detection)** | End-to-end ML pipeline flagging fraudulent transactions on highly imbalanced data — **98.8% recall, PR-AUC 0.990** — featuring cost-sensitive threshold tuning to optimize business risk vs. user friction. | Python · scikit-learn · pandas |
+| 🔐 **[Network Intrusion Detection](https://github.com/Ehsan-Ghoreishi/network-intrusion-detection)** | Deep Learning IDS utilizing a supervised NN for known attacks (**99.3% detection**) and an **Autoencoder** for zero-day anomaly detection (**ROC-AUC 0.992**). | Python · TensorFlow · Keras |
+| 📈 **[Quant Strategy Backtester](https://github.com/Ehsan-Ghoreishi/quant-backtester)** | Leakage-free backtesting framework comparing Mean-Reversion vs. Momentum strategies on Dow Jones assets — evaluating Sharpe Ratio, Max Drawdown, and out-of-sample performance. | Python · pandas · yfinance |
+| 🚀 **[SpaceX Falcon 9 Landing Prediction](https://github.com/Ehsan-Ghoreishi/spacex-landing-prediction)** | End-to-end IBM Capstone: API retrieval, SQL data processing, and hyperparameter-tuned machine learning models achieving **~83% test accuracy**. | Python · SQL · scikit-learn |
+| 🍔 **[FoodHub Order Analytics](https://github.com/Ehsan-Ghoreishi/foodhub)** | Business-centric Exploratory Data Analysis (EDA) on 1,898 restaurant orders, translating findings into actionable revenue and operations recommendations. | Python · pandas · Seaborn |
+| 📚 **[Book Data Pipeline](https://github.com/Ehsan-Ghoreishi/book-data-pipeline)** | Web scraping ETL pipeline extracting and structuring dataset across 1,000 items and 50 paginated web pages. | Python · BeautifulSoup · pandas |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages & Core**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
-**Data Science & ML**
+**Data Science & Machine Learning**
 
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -61,7 +64,7 @@ After 15+ years in engineering, where I led teams of up to 65 and delivered comp
 ![Seaborn](https://img.shields.io/badge/Seaborn-76B7B2?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Tools & Platforms**
+**Tools, Security & Cloud**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
