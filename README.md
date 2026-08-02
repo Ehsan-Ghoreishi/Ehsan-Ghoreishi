@@ -66,6 +66,12 @@ After 15+ years in civil engineering and project management — where I led team
 ![Seaborn](https://img.shields.io/badge/Seaborn-76B7B2?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+**APIs & Data Engineering**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005587?style=for-the-badge&logo=json&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/Web%20Scraping-BeautifulSoup-green?style=for-the-badge)
+
 **Tools, Security & Cloud**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
