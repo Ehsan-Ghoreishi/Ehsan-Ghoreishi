@@ -28,6 +28,7 @@ After 15+ years in civil engineering and project management — where I led team
 - 🔐 **Security Mindset:** Google Cybersecurity Certified. I build leakage-free, robust pipelines because unreliable data is a financial liability.
 - 💡 **How I work:** Honest evaluation metrics, business impact-driven solutions, and clean, reproducible code.
 - 📍 **Status:** Based in Berlin, Germany (Unrestricted Work Authorization).
+- - 🔭 **Currently:** Expanding deep learning stack with PyTorch, building production-ready FastAPI services, and mastering advanced SQL architectures.
 
 ---
 
