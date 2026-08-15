@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Ehsan Ghoreishi 👋</h1>
 
 <p align="center">
-  <b>Data Scientist · Machine Learning Engineer</b><br/>
-  Python · SQL · Machine Learning &nbsp;|&nbsp; Fintech · Risk · Quantitative Trading &nbsp;|&nbsp; Berlin, Germany
+  <b>Data Scientist</b><br/>
+  Python · SQL · Machine Learning &nbsp;|&nbsp; Berlin, Germany
 </p>
 
 <p align="center">
@@ -19,17 +19,15 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a Berlin-based **Data Scientist & Machine Learning Engineer** specializing in applied AI, risk modeling, and financial data analytics.
+I'm a Berlin-based **Data Scientist** working across applied machine learning, risk modeling, and data analytics.
 
-After 15+ years in civil engineering and project management — where I led teams of up to 65 people and delivered complex multi-million euro infrastructure projects on time and budget — I made a deliberate transition into Data Science. I backed this transition with rigorous certifications from **MIT Professional Education (Applied AI & Data Science)**, **IBM**, and **Google**.
+Since 2022, I've been building end-to-end ML systems — from fraud detection and network security to quantitative trading — backed by an intensive MIT Professional Education program (Applied AI & Data Science, 160 hours) alongside certifications from IBM and Google.
 
-- 🔭 Currently: Expanding my Deep Learning stack (PyTorch), building production-grade MLOps & FastAPI workflows, and mastering advanced SQL architectures.
-- architectures.
-- 💹 **Fintech & Risk Edge:** As an active Forex and Index trader, I understand risk, drawdowns, and market dynamics from a practitioner’s perspective.
-- 🔐 **Security Mindset:** Google Cybersecurity Certified. I build leakage-free, robust pipelines because unreliable data is a financial liability.
-- 💡 **How I work:** Honest evaluation metrics, business impact-driven solutions, and clean, reproducible code.
+- 🔭 **Currently:** Deepening my SQL and data pipeline skills, and exploring Generative & Agentic AI workflows.
+- 💹 **Fintech & Risk Edge:** As an active Forex and Index trader, I understand risk, drawdowns, and market dynamics from a practitioner's perspective.
+- 🔐 **Security Mindset:** Google Cybersecurity Certified. I build leakage-free, reproducible pipelines because unreliable data is a liability.
+- 💡 **How I work:** Honest evaluation metrics, transparent data sourcing, and clean, reproducible code.
 - 📍 **Status:** Based in Berlin, Germany (Unrestricted Work Authorization).
-
 
 ---
 
@@ -66,13 +64,12 @@ After 15+ years in civil engineering and project management — where I led team
 ![Seaborn](https://img.shields.io/badge/Seaborn-76B7B2?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**APIs & Data Engineering**
+**Data Engineering**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005587?style=for-the-badge&logo=json&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/Web%20Scraping-BeautifulSoup-green?style=for-the-badge)
 
-**Tools, Security & Cloud**
+**Tools & Environment**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
