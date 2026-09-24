@@ -19,15 +19,15 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a Berlin-based **Data Scientist** working across applied machine learning, risk modeling, and data analytics.
+Only 1.7% of transactions in my fraud dataset were fraud, so accuracy is a useless metric. My model reaches **98.8% recall** with a cost-based threshold (missed fraud €150, false alarm €5). I'm a Berlin-based **Data Scientist** building fraud, risk-scoring and grounded RAG systems.
 
-Since 2022, I've been building end-to-end ML systems — from fraud detection and network security to quantitative trading — backed by an intensive MIT Professional Education program (Applied AI & Data Science, 160 hours) alongside certifications from IBM and Google.
+Since 2022 I have delivered freelance data science: fraud detection for an online currency exchange, and risk scoring for an insurer. Before that I spent 13 years leading construction teams of up to 65 people on hospital, industrial and high-rise projects. I bring the same discipline to data work: define the problem, measure the result, explain it to stakeholders. Backed by MIT Professional Education (Applied AI & Data Science, 160 hours) and the IBM Data Science Professional Certificate.
 
-- 🔭 **Currently:** Deepening my SQL and data pipeline skills, and exploring Generative & Agentic AI workflows.
-- 💹 **Fintech & Risk Edge:** As an active Forex and Index trader, I understand risk, drawdowns, and market dynamics from a practitioner's perspective.
-- 🔐 **Security Mindset:** Google Cybersecurity Certified. I build leakage-free, reproducible pipelines because unreliable data is a liability.
-- 💡 **How I work:** Honest evaluation metrics, transparent data sourcing, and clean, reproducible code.
-- 📍 **Status:** Based in Berlin, Germany (Unrestricted Work Authorization).
+- 🎯 **Focus:** Fraud detection, anomaly detection, risk scoring, and grounded RAG backends (FastAPI).
+- 🧪 **How I work:** Honest evaluation metrics, transparent data sourcing, and clean, reproducible code (pytest, mypy, GitHub Actions CI).
+- 🧰 **Stack:** Python, SQL, pandas, scikit-learn, TensorFlow/Keras, FastAPI, SQLAlchemy, Docker, Git.
+- 🌍 **Languages:** Persian (native), German, English, Russian (B2).
+- 📍 **Status:** Based in Berlin. Open to hybrid or remote Data Scientist and Fraud/Risk Analytics roles.
 
 ---
 
