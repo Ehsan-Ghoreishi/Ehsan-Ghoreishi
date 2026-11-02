@@ -88,4 +88,4 @@ Since 2022 I have delivered freelance data science: fraud detection for an onlin
 
 ---
 
-<p align="center"><i>"The best way to learn is to build something real."</i></p>
+<p align="center"><i>"The best way to learn is to build something real — and keep improving it."</i></p>
